@@ -1,0 +1,13 @@
+0,Dandelion1,0,0,0,1,1
+0,Dandelion2,0,0,0,1,1
+0,Dandelion3,0,0,0,1,1
+0,Dandelion4,0,0,0,1,1
+0,Dandelion5,0,0,0,1,1
+0,Dandelion6,0,0,0,1,1
+1,Bison1,1,4,3,8,6
+1,Bison2,1,4,3,8,6
+1,Bison3,1,4,3,8,6
+1,Bison4,1,4,3,8,6
+2,SaberCat1,1,6,4,3,8
+2,SaberCat2,1,6,4,3,8
+2,SaberCat3,1,6,4,3,8
